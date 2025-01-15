@@ -1,5 +1,5 @@
 
-Evo predloga za README fajl koji možeš koristiti za svoj projekat:
+
 
 React Firebase Protected Routes
 This project is a simple React application integrated with Firebase for user authentication and protected routes. It demonstrates how to use Firebase authentication with React to control access to certain pages using protected routes. When a user is logged in, they can access protected content; if not, they are redirected to the login page.
